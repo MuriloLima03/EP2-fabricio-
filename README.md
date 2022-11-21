@@ -14,7 +14,11 @@ py -m venv venv no
 ```console
 ./venv/Scripts/activate
 ```
-4. Execute a aplicação (na pasta src/)
+4. utilize o comando 
+```console
+pip install flask
+``` 
+5. Execute a aplicação (na pasta src/)
 ```console
  ative a aplicação pelo visual studio code através do botão play 
 ```
